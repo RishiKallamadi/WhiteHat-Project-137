@@ -1,0 +1,57 @@
+body {
+    font-family: 'Avenir', -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Helvetica Neue", Arial, sans-serif;
+}
+
+canvas {
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px gray;
+    margin-top: 150px;
+}
+
+.Header {
+    background-color: rgb(165, 205, 230);
+    box-shadow: 2px 2px 8px gray;
+    height: 55px;
+    padding-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+#heading {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    z-index: 1;
+}
+
+.input-group {
+    width: 30%;
+    margin-top: 30px;
+}
+
+#status {
+    background-color: #d9534f;
+    border-radius: 5px;
+    box-shadow: 1px 1px 7px #b63a36;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    height: 30px;
+    margin-top: 30px;
+    padding-top: 5px;
+    width: 30%;
+}
+
+#object_detection {
+    background-color: #e9c217;
+    border-radius: 5px;
+    box-shadow: 1px 1px 7px #856d05;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    height: 30px;
+    margin-top: 10px;
+    padding-top: 5px;
+    width: 30%;
+}
+
